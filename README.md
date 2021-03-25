@@ -1,6 +1,6 @@
 # Open-Close Game
 
-Open-Close is a simple game consisting of 2 players where one of them is the predictor. Each player has 2 hands that can be shown either face-up (Open) or face-down (Close). The predictor must predict how many of the hands will be open in the next round, if the predictor is correct, they win, if not, the next player become the predictor and the game continues on until there is a winner.
+Open-Close is a simple game consisting of 2 players where one of them is the predictor. Each player has 2 hands that can be shown either face-up (Open) or face-down (Close). The predictor must predict how many of the hands will be open in the next round. If the predictor is correct, they win, if not, the next player become the predictor and the game continues on until there is a winner.
 
 ## About this project
 
